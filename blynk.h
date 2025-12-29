@@ -1,0 +1,3 @@
+#define BLYNK_TEMPLATE_ID "TMPL6KrcsBVbi"
+#define BLYNK_TEMPLATE_NAME "monitoring htu21"
+#define BLYNK_AUTH_TOKEN "JqOI1I7tqFL_AR67RNXhx34vbSYAWyGl"
